@@ -1,0 +1,30 @@
+Contribution to Technical Architecture, Components Design and Development in last three projects 
+Last three projects worked on :
+1) Equity Trade Generation Algorithm (Deutche Borse AG).
+2) Nuclear Resource Optimizer (GE Nuclear)
+3) WorkStreams MCHSTR, MCHRSE, MCHRFD, MCHRLR, MCHCAN, MCHNCP, DIGSTR, HYBSTR  (Western Union)
+
+Contribution to Solution Architecture Conceptualized during last three projects.
+1) Equity Trade Generation Algorithm (Deutche Borse AG) - Solution was designed and developed using Java, Spring, Restful Webservices and Postgres Database as core technologies. Designed and Development of Algorithm using PL/SQL language was done for exchange trade generation. Contributed to Database Schema Design, API developments and Algorithm Implementations. Groomed a team of 3 Team members.
+2) Nuclear Resource Optimizer (GE Nuclear) - Solution was designed and developed using Angular 2 , Java, Spring Boot, Restful Webservices and Postgres Database. Contributed to creation of Technical Design and Development of overall application. Worked on Project Effort Estimation, Project planning, Sow Preparation and design and development till production deployment. Groomed a team of 5+ Team members.
+3) WorkStreams MCHSTR, MCHRSE, MCHRFD, MCHRLR, MCHCAN, MCHNCP, DIGSTR, HYBSTR  (Western Union) - 
+Solution is being developed on Amazon Cloud, Java, Spring Boot, Postgre DB. 
+Contributed to the following aspects in project development since kickoff across different work streams.
+a) Requirements Analysis involving customer interaction.
+b) Application components design.
+c) Technical Design Documents.
+d) Understanding Legacy Systems in Cobol and guiding Development Team in migration project.
+e) Application Components Stiching and Integration.
+f) Performing Code review and Advising on Best Practices to implement.
+g) Helping Team members & Individually contributing to Junit and components functional testing. 
+
+Overall Contribution and achievements:
+Requirement gathering & Customer Interaction
+Design and Review of technical Architectures and its implementation governance.
+Project Planning, Effort Estimation, & Impact analysis on Change requirements.
+Individual Development contribution and assiting team members on same using technologies like Java 8, Spring, Spring Boot, Restful & SOAP webservices, JPA, Hibernate, SQL, PL/SQL, Oracle.
+Grooming team members in development activities and helping other teams in resolving thier issues.
+Contributing to ensure Code Quality practices are followed using tools like Coverity & Sonar.
+
+
+
